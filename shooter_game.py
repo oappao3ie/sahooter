@@ -5,6 +5,8 @@ from time import time as t
 from random import randint
 from math import sin
 
+print("PLEASE SPEED I NEED THIS")
+
 init()
 
 window = display.set_mode((700, 500))
